@@ -8,7 +8,7 @@ services:
     plan: free
     autoDeploy: false
     envVars:
-      - key: SESSION_ID
+      - key: SESSION_IDJarvis_b0ae_cc71_5c1b_5494_7ab5_ee60_f5e5_e614
         sync: false
       - key: DATABASE_URL
         sync: false
